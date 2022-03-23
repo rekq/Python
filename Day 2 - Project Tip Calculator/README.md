@@ -2,7 +2,7 @@
 
 ## Tip Calculator
 
-# Instructions
+### Instructions
 
 If the bill was $150.00, split between 5 people, with 12% tip. 
 
@@ -15,7 +15,7 @@ Thus everyone's share of the total bill is $30.00 plus a $3.60 tip.
 Tip: There are 2 ways to round a number. You might have to do some Googling to solve this.💪
 
 
-# Example Input
+### Example Input
 
 ```
 Welcome to the tip calculator!
@@ -24,7 +24,7 @@ How much tip would you like to give? 10, 12, or 15? 12
 How many people to split the bill? 7
 ```
 
-# Example Output
+### Example Output
 
 ```
 Each person should pay: $19.93
