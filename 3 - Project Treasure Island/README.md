@@ -1,4 +1,4 @@
-# Day 3 - Control Flow and Logical Operators
+# 3 - Control Flow and Logical Operators
 
 ## Treasure Island
 

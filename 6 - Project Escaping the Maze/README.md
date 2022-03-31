@@ -1,4 +1,4 @@
-# Day 6 - Python Functions & Karel
+# 6 - Python Functions & Karel
 
 ## Project Escaping the Maze
 
